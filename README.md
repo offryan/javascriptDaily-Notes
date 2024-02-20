@@ -1,2 +1,2 @@
 # javascriptDaily-Notes
-Meus códigos com comentários aprendendo sobre as funções do JavaScript desenvolvidos na faculdade
+Meus códigos comentados enquanto aprendia sobre a linguagem JavaScript desenvolvidos na faculdade
